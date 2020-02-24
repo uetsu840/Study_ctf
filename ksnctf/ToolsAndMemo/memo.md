@@ -1,4 +1,4 @@
-#ksnctf
+# ksnctf
 
 write up です。ネタバレはいってます。
 
