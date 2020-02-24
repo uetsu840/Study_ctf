@@ -49,7 +49,8 @@ write up です。ネタバレはいってます。
 
 - zipファイルひとつ。
     - zipファイルを解凍すると2個のpngが出てくる。
-      とりあえず重ねると、"The last sha is hidden in the zip" と掛かれている。
+    - とりあえず重ねる。paint で、イメージ > 選択 > 透明の選択 で背景を透明にできる。
+      うにうに動かしてると、 "The last sha is hidden in the zip" が出てくる。(単に左上を基準に重ねればよし)
       上半分はただのごみ。
 
 - zipファイルのフォーマット
