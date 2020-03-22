@@ -1,0 +1,28 @@
+0000   58 fb 84 b2 e5 d0 84 af ec 44 fd ae 08 00 45 00   X........D....E.
+0010   01 2d f5 e8 40 00 34 06 b2 76 9d 07 34 ba c0 a8   .-..@.4..v..4...
+0020   0b 02 00 50 f7 12 37 dd b3 65 bf 21 3a 02 50 18   ...P..7..e.!:.P.
+0030   00 7b 0d 0f 00 00 48 54 54 50 2f 31 2e 31 20 33   .{....HTTP/1.1 3
+0040   30 32 20 46 6f 75 6e 64 0d 0a 53 65 72 76 65 72   02 Found..Server
+0050   3a 20 6e 67 69 6e 78 0d 0a 44 61 74 65 3a 20 53   : nginx..Date: S
+0060   75 6e 2c 20 32 32 20 4d 61 72 20 32 30 32 30 20   un, 22 Mar 2020 
+0070   31 31 3a 33 30 3a 32 38 20 47 4d 54 0d 0a 43 6f   11:30:28 GMT..Co
+0080   6e 74 65 6e 74 2d 54 79 70 65 3a 20 74 65 78 74   ntent-Type: text
+0090   2f 68 74 6d 6c 3b 20 63 68 61 72 73 65 74 3d 55   /html; charset=U
+00a0   54 46 2d 38 0d 0a 43 6f 6e 74 65 6e 74 2d 4c 65   TF-8..Content-Le
+00b0   6e 67 74 68 3a 20 30 0d 0a 43 6f 6e 6e 65 63 74   ngth: 0..Connect
+00c0   69 6f 6e 3a 20 6b 65 65 70 2d 61 6c 69 76 65 0d   ion: keep-alive.
+00d0   0a 58 2d 50 6f 77 65 72 65 64 2d 42 79 3a 20 50   .X-Powered-By: P
+00e0   48 50 2f 37 2e 31 2e 38 0d 0a 58 2d 46 6c 61 67   HP/7.1.8..X-Flag
+00f0   3a 20 63 70 61 77 7b 34 72 65 5f 79 30 75 5f 31   : cpaw{4re_y0u_1
+0100   6f 6f 6b 31 6e 67 5f 68 74 74 70 5f 68 33 61 64   ook1ng_http_h3ad
+0110   65 72 3f 7d 0d 0a 4c 6f 63 61 74 69 6f 6e 3a 20   er?}..Location: 
+0120   68 74 74 70 3a 2f 2f 71 39 2e 63 74 66 2e 63 70   http://q9.ctf.cp
+0130   61 77 2e 73 69 74 65 0d 0a 0d 0a                  aw.site....
+
+
+
+
+cpaw{4re_y0u_1ook1ng_http_h3ader?}..Location: 
+http://q9.ctf.cp
+aw.site....
+
