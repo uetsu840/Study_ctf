@@ -33,7 +33,17 @@ write up です。ネタバレはいってます。
 ### Ubuntu 16.04 へのAnaconda, Jupyter notebook
     - Anaconda3
     https://qiita.com/cafedrip/items/f944f72016ced4ff4361
-    
+
+## トピック
+        
+### javascript難読化
+
+- [(」・ω・)」うー!(/・ω・)/にゃー!encode](https://kusano-k.hatenadiary.com/entry/20120421/1335006525)
+  
+
+- 0[] の文法<br>
+  [Stack Overflow](https://stackoverflow.com/questions/18635387/advanced-syntax-0constructorconstructor-how-does-it-works-to-evalua)
+
 
 ## 問題メモ
         
@@ -41,8 +51,6 @@ write up です。ネタバレはいってます。
 - printf書式文字列攻撃。
     - `echo -e '\xf4\xf9\x49\x80 %x %x %x %x %x %x %x' | ./q4`
     - echo の '-e' は
-
-    
 
 
 ### Q6 Login

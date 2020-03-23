@@ -34,4 +34,6 @@
     - [説明](http://elliptic-shiho.hatenablog.com/entry/2015/12/14/043745)
 - 拡張ユークリッドの互除法
     - [拡張ユークリッドの互除法 〜 一次不定方程式 ax + by = c の解き方 〜](https://qiita.com/drken/items/b97ff231e43bce50199a)
+    - 一次不定方程式の解法<br>
+    [一次不定方程式ax+by=cの整数解](https://mathtrain.jp/axbyc)
 
