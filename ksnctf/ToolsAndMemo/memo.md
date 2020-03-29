@@ -31,8 +31,16 @@ write up です。ネタバレはいってます。
 
 ## Linux環境構築
 ### Ubuntu 16.04 へのAnaconda, Jupyter notebook
-    - Anaconda3
-    https://qiita.com/cafedrip/items/f944f72016ced4ff4361
+- Jupyter notebook<br>
+    [Ubuntu 16.04.2 + Jupyter Notebook (+ bash_kernel + nbextensions](https://qiita.com/cafedrip/items/f944f72016ced4ff4361)
+- Anaconda
+    - インストールはGUIからできる。<br>
+    [Anaconda 3 のインストール（Ubuntu 上）](https://www.kkaneko.jp/tools/ubuntu/anaconda.html)
+
+    - アップデート<br>
+    `conda update --prefix /home/kitagawa/anaconda3 anaconda`
+
+
 
 ## トピック
         
